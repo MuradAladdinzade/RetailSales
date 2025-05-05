@@ -1,5 +1,5 @@
 ---
-# Title: Advance Retail Sales Forecasting
+#  Advance Retail Sales Forecasting
 ### Author: Murad Aladdinzade
 
 ---
