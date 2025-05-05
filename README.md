@@ -1,10 +1,6 @@
 ---
-title: "Forecasting Project"
-author: "Murad Aladdinzade"
-output:
-  md_document:
-    variant: gfm     # GitHub‑flavored Markdown
-    preserve_yaml: true
+# Title: Advance Retail Sales Forecasting
+# Author: Murad Aladdinzade
 
 ---
 
