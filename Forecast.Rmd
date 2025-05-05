@@ -1,7 +1,10 @@
 ---
 title: "Forecasting Project"
 author: "Murad Aladdinzade"
-output: html_document
+output:
+  md_document:
+    variant: gfm     # GitHub‑flavored Markdown
+    preserve_yaml: true
 ---
 
 ```{r setup, include=FALSE}
