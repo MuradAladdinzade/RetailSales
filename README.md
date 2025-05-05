@@ -1,8 +1,8 @@
----
-#  Advance Retail Sales Forecasting
+
+# Retail Sales Forecasting
 ### Author: Murad Aladdinzade
 
----
+
 
 ------------------------------------------------------------------------
 
